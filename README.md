@@ -10,7 +10,7 @@
 $ npm install
 $ npm start
 ```
-## 项目截图
+### 项目截图
 ![首页](https://github.com/StrangeDreamer/Employee/blob/master/%E9%A6%96%E9%A1%B5.png)
 ![添加](https://github.com/StrangeDreamer/Employee/blob/master/%E6%B7%BB%E5%8A%A0.png)
 ![查询](https://github.com/StrangeDreamer/Employee/blob/master/%E6%9F%A5%E8%AF%A2.png)
